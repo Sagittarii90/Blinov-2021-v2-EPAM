@@ -169,3 +169,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,windows
 /Blinov-2021-v2-EPAM.iml
+/.idea/
